@@ -1,3 +1,15 @@
-# テスト問題
-## "Hello, Python"と表示してみよう
-コード中の""の間を書き換えよう
+# Hello World
+
+Hello World と表示する
+
+
+## 入力(例)
+
+なし
+
+## 出力(例)
+
+```
+Hello World
+```
+
